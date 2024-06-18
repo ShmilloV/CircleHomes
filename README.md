@@ -60,12 +60,12 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
  - Using JustHome Template from Envato Elements
  - Setup home page template and generic form.
  - Still needs content and several pages.
-
-		============================================================
-		Info:				Envato Elements
-		License Type:			REGULAR LICENSE
-		Licensor Author:		CreativeLayers
-		Licensee:			Circle Homes
-		Item ID:			52092845
-		Item Code:			9a5bcdef-fe15-42c2-8ec0-d28883319b01
-		============================================================
+#### License Information:
+	============================================================
+	Info:				Envato Elements
+	License Type:			REGULAR LICENSE
+	Licensor Author:		CreativeLayers
+	Licensee:			Circle Homes
+	Item ID:			52092845
+	Item Code:			9a5bcdef-fe15-42c2-8ec0-d28883319b01
+	============================================================
