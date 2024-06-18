@@ -69,4 +69,4 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Item ID:			52092845
 	Item Code:			9a5bcdef-fe15-42c2-8ec0-d28883319b01
 	============================================================
-  - [View License](https://github.com/ShmilloV/CircleHomes/blob/main/LICENSE.pdf)
+[View License](https://github.com/ShmilloV/CircleHomes/blob/main/LICENSE.pdf)
