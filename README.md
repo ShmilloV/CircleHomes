@@ -21,7 +21,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info: 			SPACESHIP MAIL
-	Access Link: 	https://www.spaceship.com/
+	Access Link: 		https://www.spaceship.com/
 	Email:			circledsllc@gmail.com
 	Username: 		ShmilloV
 	Password: 		ShmilloV#1000
@@ -30,17 +30,17 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Size:			10GB
 	Flagged:		CATCH-ALL
     Aliases:		help@circlehomesfl.com
-       				info@circlehomesfl.com
+       			info@circlehomesfl.com
 	Password:		B0C330a8-4fb7-4377-8E7C-EB4e8Ef70AE7
 	============================================================
 	Email:			legal@circlehomesfl.com
 	Size:			10GB
 	Aliases:		law@circlehomesfl.com
-     				compliance@circlehomesfl.com
-			 		contracts@circlehomesfl.com
-     				regulations@circlehomesfl.com
-			 		legalteam@circlehomesfl.com
-     				legal-team@circlehomesfl.com
+     			compliance@circlehomesfl.com
+			 	contracts@circlehomesfl.com
+     			regulations@circlehomesfl.com
+			 	legalteam@circlehomesfl.com
+     			legal-team@circlehomesfl.com
 	Password:		5C433A20-0025-4Ec4-b1bD-aa92fF510710
    	============================================================
 	2 of 5 mailboxes used. (3 more can be setup)
@@ -53,7 +53,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			TypeForm
-	Access Link:	https://www.typeform.com
+	Access Link:		https://www.typeform.com
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000		[ASSUMED PASSWORD]
 	============================================================
@@ -64,7 +64,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			Cloudflare
-	Access Link: 	https://www.cloudflare.com
+	Access Link: 		https://www.cloudflare.com
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000
 	============================================================
@@ -74,7 +74,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			GitHub
-	Access Link: 	https://www.github.com
+	Access Link: 		https://www.github.com
 	Username:		ShmilloV
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000
@@ -86,8 +86,8 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### License Information:
 	============================================================
 	Info:				Envato Elements
-	License Type:		REGULAR LICENSE
-	Licensor Author:	CreativeLayers
+	License Type:			REGULAR LICENSE
+	Licensor Author:		CreativeLayers
 	Licensee:			Circle Homes
 	Item ID:			52092845
 	Item Code:			9a5bcdef-fe15-42c2-8ec0-d28883319b01
