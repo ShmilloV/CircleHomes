@@ -4,10 +4,10 @@
  - They may have been altered to fit the needs of the Circle Homes website.
 ```
 ============================================================
-Info:					Envato Market
+Info:			 Envato Market
 License Type:		  	REGULAR LICENSE
 Licensor Author:		CreativeLayers
-Licensee:			    Circle Homes
+Licensee:     Circle Homes
 Item ID:				52092845
 Item Code:				9a5bcdef-fe15-42c2-8ec0-d28883319b01
 ============================================================
