@@ -57,5 +57,6 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Password:		ShmilloV#1000
 	============================================================
 ## Setup Website
+ - Using JustHome Template from Envata Elements (View License [Here](https://github.com/ShmilloV/CircleHomes/blob/main/LICENSE.pdf)!)
  - Setup home page template and generic form.
  - Still needs content and several pages.
