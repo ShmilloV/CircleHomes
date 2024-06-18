@@ -28,7 +28,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Email:			contact@circlehomesfl.com
 	Size:			10GB
 	Flagged:		CATCH-ALL
-    Aliases:		help@circlehomesfl.com
+    	Aliases:		help@circlehomesfl.com
        				info@circlehomesfl.com
 	Password:		B0C330a8-4fb7-4377-8E7C-EB4e8Ef70AE7
 	============================================================
@@ -36,9 +36,9 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Size:			10GB
 	Aliases:		law@circlehomesfl.com
      				compliance@circlehomesfl.com
-		 			contracts@circlehomesfl.com
+		 		contracts@circlehomesfl.com
      				regulations@circlehomesfl.com
-		 			legalteam@circlehomesfl.com
+		 		legalteam@circlehomesfl.com
      				legal-team@circlehomesfl.com
 	Password:		5C433A20-0025-4Ec4-b1bD-aa92fF510710
    	============================================================
