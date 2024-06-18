@@ -1,4 +1,5 @@
 
+
 # Overview
 View the website at [circlehomesfl.com](https://circlehomesfl.com).
 # Change Logs:
@@ -24,26 +25,24 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	Username: 		ShmilloV
 	Password: 		ShmilloV#1000
 	============================================================
- 	Email:			contact@circlehomesfl.com
-  	Size:			10GB
-  	Flagged:		CATCH-ALL
-      	Aliases:
-       	- help@circlehomesfl.com
-       	- info@circlehomesfl.com
+	Email:			contact@circlehomesfl.com
+	Size:			10GB
+	Flagged:		CATCH-ALL
+    Aliases:		help@circlehomesfl.com
+       				info@circlehomesfl.com
 	Password:		B0C330a8-4fb7-4377-8E7C-EB4e8Ef70AE7
-  	============================================================
-   	Email:			legal@circlehomesfl.com
-    	Size:			10GB
-    	Aliases:		
-     	- law@circlehomesfl.com
-     	- compliance@circlehomesfl.com
-	- contracts@circlehomesfl.com
-     	- regulations@circlehomesfl.com
-	- legalteam@circlehomesfl.com
-     	- legal-team@circlehomesfl.com
+	============================================================
+	Email:			legal@circlehomesfl.com
+	Size:			10GB
+	Aliases:		law@circlehomesfl.com
+     				compliance@circlehomesfl.com
+		 			contracts@circlehomesfl.com
+     				regulations@circlehomesfl.com
+		 			legalteam@circlehomesfl.com
+     				legal-team@circlehomesfl.com
 	Password:		5C433A20-0025-4Ec4-b1bD-aa92fF510710
    	============================================================
-    	2 of 5 mailboxes used. (3 more can be setup)
+	2 of 5 mailboxes used. (3 more can be setup)
    	============================================================
 [Login a Mailbox](https://www.spacemail.com/login/)
   	
