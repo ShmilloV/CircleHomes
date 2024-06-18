@@ -10,8 +10,8 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 	============================================================
 	Info: Namecheap
 	Nameservers:
-		1. NS			khalid.ns.cloudflare.com
-		2. NS			maya.ns.cloudflare.com
+		1. NS		khalid.ns.cloudflare.com
+		2. NS		maya.ns.cloudflare.com
 	============================================================
 
 ## Purchased 5x Email Boxes through Spaceship Mail (Spacemail)
@@ -19,7 +19,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info: 			SPACESHIP MAIL
-	Access Link: 	https://www.spaceship.com/
+	Access Link: 		https://www.spaceship.com/
 	Email:			circledsllc@gmail.com
 	Username: 		ShmilloV
 	Password: 		ShmilloV#1000
@@ -30,7 +30,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			TypeForm
-	Access Link:	https://www.typeform.com
+	Access Link:		https://www.typeform.com
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000		[ASSUMED PASSWORD]
 	============================================================
@@ -41,7 +41,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			Cloudflare
-	Access Link: 	https://www.cloudflare.com
+	Access Link: 		https://www.cloudflare.com
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000
 	============================================================
@@ -51,7 +51,7 @@ View the website at [circlehomesfl.com](https://circlehomesfl.com).
 #### Account Information & Changes:
 	============================================================
 	Info:			GitHub
-	Access Link: 	https://www.github.com
+	Access Link: 		https://www.github.com
 	Username:		ShmilloV
 	Email:			em869244@ucf.edu
 	Password:		ShmilloV#1000
