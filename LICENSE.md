@@ -6,10 +6,9 @@
 	============================================================
 	Info: 			Envato Market
 	License Type: 		REGULAR LICENSE
-	Licensor Author:			CreativeLayers
+	Licensor Author:	CreativeLayers
 	Licensee: 		Circle Homes
 	Item ID: 		52092845
 	Item Code:		9a5bcdef-fe15-42c2-8ec0-d28883319b01
    	============================================================
-[Login a Mailbox](https://www.spacemail.com/login/)
- 
+[Click Here](https://github.com/ShmilloV/CircleHomes/blob/main/ENVATO-MARKET-LICENSE.pdf) to view license PDF.
