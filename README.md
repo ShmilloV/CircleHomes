@@ -2,10 +2,13 @@
 
 
 # Overview
-View the website at [circlehomesfl.com](https://circlehomesfl.com).
+View the  __main website__ at [circlehomesfl.com](https://circlehomesfl.com).
+
+Main File Path: `./`
 
 View the __template website__ at [circlelhomesfl.com/=TEMPLATE=](https://circlehomesfl.com/=TEMPLATE=/index.html).
-Template File Path `./=TEMPLATE=`
+
+Template File Path: `./=TEMPLATE=`
 
 # Change Logs:
 
