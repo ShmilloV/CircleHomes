@@ -3,6 +3,11 @@
 
 # Overview
 View the website at [circlehomesfl.com](https://circlehomesfl.com).
+
+View the __template website__ at [circlhomesfl.com/=TEMPLATE=]([https://github.com/ShmilloV/CircleHomes/tree/main/%3DTEMPLATE%3D](https://circlehomesfl.com/=TEMPLATE=/index.html)).
+
+File Path `./=TEMPLATE=`
+
 # Change Logs:
 
 ## Changed Namecheap Nameservers
