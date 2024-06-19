@@ -1,7 +1,7 @@
 
 # License
  - The current website uses a publically sold template for HTML, CSS, SCSS,  JS files. 
- - They may have been altered to fit the needs of the Circle Homes website.
+ - It may have been altered to fit the needs of the Circle Homes website.
 #### Account Information & Changes:
 	============================================================
 	Info: 			Envato Market
