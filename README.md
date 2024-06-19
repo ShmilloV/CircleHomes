@@ -87,12 +87,12 @@ Template File Path: `./=TEMPLATE=`
 	Password:		ShmilloV#1000
 	============================================================
 ## Setup Website
- - Using JustHome Template from Envato Elements
+ - Using JustHome Template from Envato Market
  - Setup home page template and generic form.
  - Still needs content and several pages.
 #### License Information:
 	============================================================
-	Info:				Envato Elements
+	Info:				Envato Market
 	License Type:			REGULAR LICENSE
 	Licensor Author:		CreativeLayers
 	Licensee:			Circle Homes
