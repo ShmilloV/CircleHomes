@@ -1,3 +1,4 @@
+
 :root {
   --White: #fff;
   --Text: #3D3E3F;
@@ -6934,7 +6935,7 @@ ul.grid-tags li a:hover {
   z-index: 100;
 }
 #header_main .header-inner {
-  padding: 20px 20px 0 20px !important;
+  padding: 10px 20px 0 20px !important;
 }
 #header_main .header-inner.background-white .header-inner-wrap {
   background-color: var(--White);
@@ -8831,7 +8832,7 @@ body::-webkit-scrollbar {
 }
 .footer.style-1 .bottom-footer {
   border: none;
-  background-color: #222121;
+  background-color: var(--Secondary);
   padding-top: 30px;
   padding-bottom: 29px;
 }
@@ -14265,7 +14266,7 @@ a {
   }
   #header_main.style-absolute {
     background-color: var(--Secondary);
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
   #header_main.style-absolute .header-inner {
     padding-bottom: 0 !important;
@@ -14279,7 +14280,7 @@ a {
     padding-bottom: 20px;
   }
   #header_main.is-fixed.is-small.style-no-bg {
-    background-color: var(--White);
+    background-color: var(--Secondary) !important;
   }
   #header_main.is-fixed.is-small.style-no-bg .header-inner .header-inner-wrap {
     background-color: transparent;
