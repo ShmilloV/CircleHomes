@@ -172,6 +172,29 @@
         <div id="map-1" class="row-height" data-map-zoom="16" data-map-scroll="true">
             <img src="images/section/contact.jpg">
         </div>
+        <style>
+            @media (max-width: 1000px) {
+                #map-1 {
+                    width: 100%; /* Adjust width as needed, possibly to a specific px or % value */
+                    height: 500px; /* Adjust height as needed, depending on your design requirements */
+                    overflow: hidden; /* Prevents any excess part of the image from overflowing */
+                    position: relative; /* Provides a positioning context for the image */
+                }
+
+                #map-1 img {
+                    width: 100%; /* Ensures the image stretches to cover the full width of the container */
+                    height: 100%; /* Ensures the image stretches to cover the full height of the container */
+                    object-fit: cover; /* Cover the area of the container while preserving the image's aspect ratio */
+                    object-position: center; /* Center the image within the container to ensure best parts are visible */
+                }
+                .grid-contact {
+                    margin-left: 5%;
+                    width: 90% !important;
+                    margin-top: -155px;
+                }
+               
+            }
+        </style>
         <div class="grid-contact">
             <div class="contact-item wow fadeInUp" style="padding: 40px 50px !important; box-shadow: 15px 15px rgba(0, 0, 0, 0.075);">
                 <div class="icon">
