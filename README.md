@@ -72,7 +72,7 @@ Template File Path: `./=TEMPLATE=`
 	============================================================
 	Info:			Cloudflare
 	Access Link: 		https://www.cloudflare.com
-	Email:			em869244@ucf.edu
+	Email:			circledsllc@gmail.com
 	Password:		ShmilloV#1000
 	============================================================
 
