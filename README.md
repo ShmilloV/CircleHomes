@@ -62,10 +62,10 @@ Template File Path: `./=TEMPLATE=`
 	Info:			TypeForm
 	Access Link:		https://www.typeform.com
 	Email:			em869244@ucf.edu
-	Password:		ShmilloV#1000		[ASSUMED PASSWORD]
+	Password:		ShmilloV#1000		
 	============================================================
 
-## Setup Cloudflare as DNS Provider [circlehomesfl.com] (Previously Namecheap)
+## Setup Cloudflare as DNS Provider & Transferred from Namecheap [circlehomesfl.com] (Previously Namecheap)
  - Linked Cloudflare to Spaceship Mail (Spacemail)
  - Linked Cloudflare to GitHub Account (Pages)
 #### Account Information & Changes:
