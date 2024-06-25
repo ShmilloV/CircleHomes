@@ -6850,20 +6850,19 @@ ul.grid-tags li a:hover {
   width: 80px;
   height: auto;
   animation: preload 1.2s linear infinite alternate;
-  scale: 200%;
+  scale: 170%;
 
 }
 
 
-/*
-@media (max-width: 1400px) {
+
+@media (max-width: 500px) {
   .preload-container .middle {
-    left: 46%;
-    transform: translateX(-50%);
-    width: 15vh;
+    left: 47%;
+  
   }
 }
-
+/*
 @media (max-width: 1200px) {
   .preload-container .middle {
     left: 47%;
