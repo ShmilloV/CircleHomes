@@ -1,9 +1,11 @@
 
+
+
 :root {
   --White: #fff;
   --Text: #3D3E3F;
   --Primary: #E7C873;
-  --Secondary: #1A1A1A;
+  --Secondary: #111111;
   --Third: #EB664E;
   --Fourth: #1F4B43;
   --Border: #EBEBEB;
@@ -5829,7 +5831,7 @@ ul.grid-tags li a:hover {
 }
 .slider.home2 .wrap-slider {
   position: relative;
-  background-image: url(./../images/slider/slider-home-2.jpg);
+  background-image: url(./../images/slider/contact.jpg);
   background-attachment: fixed;
 }
 .slider.home2 .wrap-slider form {
@@ -6819,7 +6821,7 @@ ul.grid-tags li a:hover {
 }
 .progress-wrap svg.progress-circle path {
   box-sizing: border-box;
-  stroke: var(--Primary);
+  stroke: #0a85ff;
   stroke-width: 5;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
