@@ -38,7 +38,7 @@ Template File Path: `./=TEMPLATE=`
 	Flagged:		CATCH-ALL
     Aliases:		help@circlehomesfl.com
        			info@circlehomesfl.com
-	Password:		B0C330a8-4fb7-4377-8E7C-EB4e8Ef70AE7
+	Password:		ShmilloV#1000
 	============================================================
 	Email:			legal@circlehomesfl.com
 	Size:			10GB
@@ -48,7 +48,7 @@ Template File Path: `./=TEMPLATE=`
      			regulations@circlehomesfl.com
 			 	legalteam@circlehomesfl.com
      			legal-team@circlehomesfl.com
-	Password:		5C433A20-0025-4Ec4-b1bD-aa92fF510710
+	Password:		ShmilloV#1000
    	============================================================
 	2 of 5 mailboxes used. (3 more can be setup)
    	============================================================
