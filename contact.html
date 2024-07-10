@@ -320,17 +320,20 @@
                     </style>
 
                     <style>
-                        .icon {
-                            background-color: transparent;
-                            display: inline-block;
-                            transition: transform 0.5s ease-in-out;
-                            transform-style: preserve-3d; /* Needed to enable 3D transformations */
-                            perspective: 500px; /* Adjust perspective for more depth */
-                        }
+                    .icon {
+                        background-color: transparent;
+                        display: inline-block;
+                        transition: transform 0.5s ease-in-out;
+                        transform-style: preserve-3d; /* Needed to enable 3D transformations */
+                        -webkit-transform-style: preserve-3d; /* Needed to enable 3D transformations for Safari */
+                        perspective: 500px; /* Adjust perspective for more depth */
+                        -webkit-perspective: 500px; /* Adjust perspective for more depth in Safari */
+                    }
 
-                        .icon:hover {
-                            transform: rotateY(360deg); /* Rotate around the Y-axis */
-                        }
+                    .icon:hover {
+                        transform: rotateY(360deg); /* Rotate around the Y-axis */
+                        -webkit-transform: rotateY(360deg); /* Rotate around the Y-axis in Safari */
+                    }
                     </style>
               
 
